@@ -18,7 +18,7 @@ spec:
     metadata:
       labels:
         # purpose: dp-demo
-        purpose: healm-demo
+        purpose: helm-demo
         project: roboshop
     spec:
       containers:
